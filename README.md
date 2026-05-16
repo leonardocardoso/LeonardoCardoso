@@ -17,7 +17,6 @@ Senior engineer at [Trade Republic](https://github.com/traderepublic). On the si
 **Writing**
 
 - **[a7t.ai/articles](https://a7t.ai/articles)** Engineering deep dives, EN + PT.
-- **[leocardz.com](https://leocardz.com)** Personal blog.
 
 Berlin · EN / PT
 
