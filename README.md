@@ -10,6 +10,7 @@ Senior engineer at [Trade Republic](https://github.com/traderepublic). On the si
 **Apps in the App Store**
 
 - **[FareHawk](https://farehawk.app)** Flight deal hunter.
+- **[Debut](https://debut.land)** New openings near you.
 - **[Poirot](https://poirot.fyi)** Native macOS companion for Claude Code.
 - **[Einbürgerung Pro](https://einbuergerung.pro)** German citizenship test prep.
 - **[Kinderuntersuchungsheft](https://kinderuntersuchungsheft.com)** U-Heft companion.
