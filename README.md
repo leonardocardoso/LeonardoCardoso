@@ -7,6 +7,7 @@ Senior engineer at [Trade Republic](https://github.com/traderepublic). On the si
 - **[`a7t-ai/chat`](https://github.com/a7t-ai/chat)** Self-hosted AI chat for everyone in your house. Your local models, passkey sign-in, no cloud.
 - **[`a7t-ai/jano`](https://github.com/a7t-ai/jano)** Local-first LLM router and queue. Two models, one GPU, zero cloud.
 - **[`a7t-ai/slipway`](https://github.com/a7t-ai/slipway)** Self-publishing toolkit for iOS apps. Turns a vanilla Xcode project into one that ships releases on its own.
+- **[`a7t-ai/three-body-agent`](https://github.com/a7t-ai/three-body-agent)** Autonomous coding pipeline. Picks issues from a project board, implements them via Claude Code, fixes its own CI failures, merges green PRs.
 
 **Apps in the App Store**
 
