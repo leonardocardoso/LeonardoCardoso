@@ -4,6 +4,7 @@ Senior engineer at [Trade Republic](https://github.com/traderepublic). On the si
 
 **Open source**
 
+- **[`a7t-ai/chat`](https://github.com/a7t-ai/chat)** Self-hosted AI chat for everyone in your house. Your local models, passkey sign-in, no cloud.
 - **[`a7t-ai/jano`](https://github.com/a7t-ai/jano)** Local-first LLM router and queue. Two models, one GPU, zero cloud.
 - **[`a7t-ai/slipway`](https://github.com/a7t-ai/slipway)** Self-publishing toolkit for iOS apps. Turns a vanilla Xcode project into one that ships releases on its own.
 
@@ -18,7 +19,5 @@ Senior engineer at [Trade Republic](https://github.com/traderepublic). On the si
 **Writing**
 
 - **[a7t.ai/articles](https://a7t.ai/articles)** Engineering deep dives, EN + PT.
-
-Berlin · EN / PT
 
 Contact: [leo@leocardz.com](mailto:leo@leocardz.com) · [PGP](https://leocardz.com/contact/leonardo-cardoso-public-pgp.asc)
